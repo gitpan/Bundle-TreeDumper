@@ -1,12 +1,14 @@
 package Bundle::TreeDumper ;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 1;
 
-=head1 Bundle::TreeDumper
+__END__
 
-Bundle::TreeDumper  - Installs Data::TreeDumper modules.
+=head1 NAME
+
+Bundle::TreeDumper - Installs all Data::TreeDumper modules.
 
 =head1 SYNOPSIS
 
@@ -22,9 +24,9 @@ information about bundles.
 Data::TreeDumper 0.15,
 Data::TreeDumper::OO 0.01,
 Data::TreeDumper::Renderer::ASCII 0.01,
-Data::TreeDumper::Renderer::DHTML 0.02,
+Data::TreeDumper::Renderer::DHTML 0.03,
 
-=head1 LINCENSE
+=head1 LICENSE
 
 Same licence as Perl.
 
