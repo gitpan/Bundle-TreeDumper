@@ -1,12 +1,12 @@
 package Bundle::TreeDumper ;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 1;
 
-=head1 Bundle::PBS
+=head1 Bundle::TreeDumper
 
-Bundle::TreeDumper - Installs Data::TreeDumper modules.
+Bundle::TreeDumper  - Installs Data::TreeDumper modules.
 
 =head1 SYNOPSIS
 
@@ -19,10 +19,10 @@ information about bundles.
 
 =head1 CONTENTS
 
-Data::TreeDumper 0.14,
+Data::TreeDumper 0.15,
 Data::TreeDumper::OO 0.01,
 Data::TreeDumper::Renderer::ASCII 0.01,
-Data::TreeDumper::Renderer::DHTML 0.01,
+Data::TreeDumper::Renderer::DHTML 0.02,
 
 =head1 LINCENSE
 
