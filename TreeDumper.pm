@@ -1,6 +1,6 @@
 package Bundle::TreeDumper ;
 
-our $VERSION = '0.08';
+our $VERSION = '0.09';
 
 1;
 
@@ -21,8 +21,8 @@ information about bundles.
 
 =head1 CONTENTS
 
-Data::TreeDumper 0.19,
-Data::TreeDumper::OO 0.02,
+Data::TreeDumper 0.20,
+Data::TreeDumper::OO 0.03,
 Data::TreeDumper::Renderer::ASCII 0.03,
 Data::TreeDumper::Renderer::DHTML 0.05,
 
