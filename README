@@ -1,0 +1,18 @@
+Bundle/TreeDumper version 0.01
+==============================
+
+Installs Data::TreeDumper modules.
+
+INSTALLATION
+
+To install this module type the following:
+
+perl -MCPAN -e 'install Bundle::TreeDumper'
+
+
+COPYRIGHT AND LICENCE
+
+Same licence as Perl.
+
+Copyright (C) 2003 KEMIR Nadim
+
