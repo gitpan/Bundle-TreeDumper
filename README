@@ -1,4 +1,4 @@
-Bundle/TreeDumper version 0.09
+Bundle/TreeDumper version 0.10
 ==============================
 
 Installs Data::TreeDumper modules.
@@ -14,5 +14,5 @@ COPYRIGHT AND LICENCE
 
 Same licence as Perl.
 
-Copyright (C) 2003 KEMIR Nadim
+Copyright (C) 2003-2005 KHEMIR Nadim
 
